@@ -14491,3 +14491,7 @@ textarea.form-control-lg {
   max-height: 50px;
 }
 
+.owl-nav {
+  display: none;
+}
+
