@@ -423,3 +423,9 @@ body {
   border-right: none;
 }
 
+.btn:hover {
+  color: var(--bs-btn-hover-color);
+  background-color: var(--bs-green);
+  border-color: var(--bs-green);
+}
+
